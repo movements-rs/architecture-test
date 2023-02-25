@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "movements",
+    "test-parser",
+    "test-planner",
+    "common",
+]
